@@ -274,3 +274,4 @@ fabric.properties
 *.rdb
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,pycharm,django,redis
+/frontend/node_modules/
